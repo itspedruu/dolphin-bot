@@ -1,0 +1,13 @@
+{
+	"prefix": ".",
+	"mainColor": "#ed72ff",
+	"owners": ["224625959158939649"],
+	"commands": {
+		"path": "./dist/commands",
+		"cooldown": 3,
+		"defaultCommand": "ping"
+	},
+	"eventsPath": "./dist/events",
+	"enginesPath": "./dist/engines",
+	"extendersPath": "./dist/extenders"
+}
